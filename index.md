@@ -1,6 +1,6 @@
 # Välkommen till Eskilstuna Makerspace.
 
-Vi är ett gäng som delar en vision om att starta ett Makerspace i Eskilstuna.
+Vi är ett gäng som delar en vision om att starta ett [Makerspace](https://sv.wikipedia.org/wiki/Makerr%C3%B6relsen#Makerspace) i Eskilstuna.
 
 Makerspaces kallas ibland också Fab Lab eller Hackerspace men gemensamt är en tanke om att ge människor en plats och möjlighet att arbeta med sina projekt och dela kunskap om hantverk, teknik, reparation och hållbart återbruk.
 
