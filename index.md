@@ -17,5 +17,5 @@ Vi arbetar just med målet att starta en ideell förening, ordna lokal, verktyg,
 * Har du eller ditt företag något att hjälpa till med? 
 * Kan vi erbjuda dig eller ert företag något?
 
-** Tveka då inte att höra av dig via [Facebook](https://www.facebook.com/groups/161824791767937/) eller mail! **
+**Tveka då inte att höra av dig via [Facebook](https://www.facebook.com/groups/161824791767937/) eller mail!**
 
