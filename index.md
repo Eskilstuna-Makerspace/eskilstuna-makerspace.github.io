@@ -6,7 +6,7 @@ Makerspaces kallas ibland också Fab Lab eller Hackerspace men gemensamt är en 
 
 Andra Makerspace i Sverige har haft kurser i äggmålning, virkning, 3d-printning, Computer Aided Design, sömnad, svetsning, träarbete och mycket mer. Men det viktigaste är alla möten och spontant kunskapsutbyte makerspace rörelsens dynamiska natur möjliggör.
 
-Vi hoppa att Eskilstuna Makerspace skall få möjlighet att både erbjuda kurser och kunskapsutbyte till medlemmar men även till skolor och företag.
+Vi hoppas att Eskilstuna Makerspace skall få möjlighet att både erbjuda kurser och kunskapsutbyte till medlemmar men även till skolor och företag.
 
 Under Coronakrisen så utmärkte sig flera makerspaces med att snabbt lösa akuta brister i vården, så som Stockholm makerspaces uppmärksammade tillverkning av tusentals visir och skyddsrockar och Linköpings MakersLink som inom loppet av några timmar hade konstruerat aerosolboxar som behövdes i coronavården på universitetssjukhuset.
 
